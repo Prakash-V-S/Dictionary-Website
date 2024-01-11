@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚  Creating bugs since ...<br>📚  Here I Created a Dictionary website using dictionaryAPI Activity.<br>📚  And This webside is build Html, CSS, Javascript DOM <br><br>📚  And Imported to GitHub Using Git<br>📚  Deployed my web application in Netlify</p>
+<p align="left">📚  Creating bugs since ...<br>📚  Here I Created a Dictionary website using dictionaryAPI Activity.<br>📚  And This webside is build Html, CSS, Javascript DOM <br>📚  And Imported to GitHub Using Git<br>📚  Deployed my web application in Netlify</p>
 
 
 
